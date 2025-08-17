@@ -1,6 +1,8 @@
 # PTO Request SOP (WorkView Mobile App)
 This repository contains a complete technical writing portfolio entry demonstrating a Standard Operating Procedure (SOP) for submitting Paid Time Off (PTO) requests using the WorkView Mobile App.
 
+**Disclaimer**: This sample was created using a realistic, hypothetical scenario for portfolio purposes. While it reflects professional standards and real-world workflows, it is not based on an actual client engagement.
+
 ## 📋 Contents
 
 - Technical Document (PDF) – Step-by-step SOP with annotated visuals.
