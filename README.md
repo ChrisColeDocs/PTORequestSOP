@@ -26,11 +26,3 @@ Open the SOP PDF to follow the detailed PTO submission steps.
 Review the case study PDF for context, metrics, and outcomes.
 
 Watch the Loom video to see the workflow explained and demonstrated.
-
-📂 Repository Structure
-PTORequestSOP/
-│
-├── SOP_PTORequest_WorkView.pdf
-├── CaseStudy_PTORequest.pdf
-├── LoomWalkthrough_Link.txt
-└── README.md
